@@ -51,7 +51,7 @@ script:
 notifications:
   irc:
     channels:
-      - "chat.freenode.net#aboutcode"
+      - "irc.libera.chat#aboutcode"
   on_sucess: change
   on_failure: always
   use_notice: true
